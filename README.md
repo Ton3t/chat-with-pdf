@@ -30,6 +30,10 @@ Para comenzar a trabajar con este proyecto, sigue estos pasos:
 
 ## Bibliotecas
 
+- Tailwind CSS
+```bash
+npm run astro add tailwind
+
 - svelte drop zone 
 ```bash 
 npm install svelte-file-dropzone
