@@ -18,3 +18,9 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 
+## Bibliotecas
+
+svelte drop zone 
+```bash 
+npm install svelte-file-dropzone
+```
