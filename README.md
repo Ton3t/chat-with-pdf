@@ -12,7 +12,7 @@ Para comenzar a trabajar con este proyecto, sigue estos pasos:
 
 1. **Clonar el repositorio:** 
    ```bash
-   git clone https://github.com/tu-usuario/chat-with-pdf.git
+   git clone https://github.com/Ton3t/chat-with-pdf.git
 
 2. **Instalar dependencias:** 
     ```bash
