@@ -30,7 +30,7 @@ Para comenzar a trabajar con este proyecto, sigue estos pasos:
 
 ## Bibliotecas
 
-- Tailwind CSS
+- [Tailwind CSS](https://tailwindcss.com/docs/installation) 
     ```bash
     npm run astro add tailwind
 
