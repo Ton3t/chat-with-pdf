@@ -35,16 +35,14 @@ Para comenzar a trabajar con este proyecto, sigue estos pasos:
     npm run astro add tailwind
 
 
-- svelte drop zone 
+- [Svelte drop zone](https://www.npmjs.com/package/svelte-file-dropzone)
     ```bash 
     npm install svelte-file-dropzone
-[Svelte drop zone](https://www.npmjs.com/package/svelte-file-dropzone)
 
 
-- Flowbite Svelte
+- [Flowbite Svelte](https://flowbite-svelte.com/docs/pages/quickstart)
     ```bash 
     npm i -D flowbite-svelte flowbite
-[Flowbite Svelte](https://flowbite-svelte.com/docs/pages/quickstart)
 
 ## Contribuir
 
