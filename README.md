@@ -1,8 +1,4 @@
-# Astro Starter Kit: Basics
-
-```sh
-npm create astro@latest -- --template basics
-```
+# PROYECTO CHAT WITH PDF
 
 ## 🧞 Commandos
 
@@ -20,7 +16,7 @@ All commands are run from the root of the project, from a terminal:
 
 ## Bibliotecas
 
-svelte drop zone 
+- svelte drop zone 
 ```bash 
 npm install svelte-file-dropzone
 ```
