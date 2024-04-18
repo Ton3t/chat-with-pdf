@@ -20,3 +20,10 @@ All commands are run from the root of the project, from a terminal:
 ```bash 
 npm install svelte-file-dropzone
 ```
+
+- Flowbite Svelte
+```bash 
+npm i -D flowbite-svelte flowbite
+```
+
+`https://flowbite-svelte.com/docs/pages/quickstart`

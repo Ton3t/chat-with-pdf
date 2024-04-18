@@ -1,6 +1,6 @@
 <script>
   import Dropzone from "svelte-file-dropzone";
-  import { appStatus } from "../store";
+  import { appStatus, setAppStatusLoading } from "../store";
 
   let files = {
     accepted: [],
@@ -11,10 +11,14 @@
     const { acceptedFiles, fileRejections } = e.detail;
     files.accepted = [...files.accepted, ...acceptedFiles];
     files.rejected = [...files.rejected, ...fileRejections];
+
+    if(acceptedFiles.length > 0) {
+        setAppStatusLoading();
+    } 
   }
 </script>
 
-<Dropzone on:drop={handleFilesSelect}>
+<Dropzone accept="application/pdf" multiple={false} on:drop={handleFilesSelect}>
     Arrastra y suelta aquí tu PDF
 </Dropzone>
 <ol>
