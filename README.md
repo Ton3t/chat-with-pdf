@@ -26,4 +26,4 @@ npm install svelte-file-dropzone
 npm i -D flowbite-svelte flowbite
 ```
 
-`https://flowbite-svelte.com/docs/pages/quickstart`
+[https://flowbite-svelte.com/docs/pages/quickstart]
