@@ -5,7 +5,7 @@ import {v2 as cloudinary} from 'cloudinary';
 cloudinary.config({ 
   cloud_name: 'dc8ohjtfw', 
   api_key: '625738214763651', 
-  api_secret: 'TbhxlKCieJig5SF-MdnoWxtTqb0' 
+  api_secret: import.meta.env.CLOUDINARY_API_SECRET, // usando archivo .env
 });
 
 export const POST: APIRoute = async ({request}) => {
