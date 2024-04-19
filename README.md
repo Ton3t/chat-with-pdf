@@ -44,6 +44,10 @@ Para comenzar a trabajar con este proyecto, sigue estos pasos:
     ```bash 
     npm i -D flowbite-svelte flowbite
 
+- [Cloudinary](https://console.cloudinary.com/pm/c-f6b818cc6ea97ae6c2b36dc98a5aa8/getting-started)
+    ```bash
+    npm install cloudinary
+
 ## Contribuir
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
